@@ -1,3 +1,9 @@
+<h1 align="center"> <a href="https://github.com/Alujjdnd/Ngrok-LAN/blob/1.20/IMPORTANT.md">DEPRECATION NOTICE</a> </h1>
+
+
+
+
+
 ![Ngrok LAN Banner](https://github.com/Alujjdnd/Ngrok-LAN/blob/main/docs/assets/banner.png?raw=true)
 
 <h1 align="center">
@@ -13,9 +19,6 @@
   </br>
   <img src=https://raw.githubusercontent.com/Alujjdnd/Ngrok-LAN/main/docs/assets/OSSrs.png>
 </div>
-
-## Help Needed!
-We are trying to port this mod to QuiltMC, to slowly move away from Fabric. If anyone is knowledgeable in porting mods to QuiltMC or in QuiltMC in general, please reach out! We would greatly appreciate your help!
 
 ## Introduction
 Ngrok LAN is a Fabric mod that enables you to share your singleplayer world with your friends across the globe, all via
