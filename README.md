@@ -7,6 +7,19 @@
 ![Ngrok LAN Banner](https://github.com/Alujjdnd/Ngrok-LAN/blob/main/docs/assets/banner.png?raw=true)
 
 <h1 align="center">
+  This project is no longer actively maintained.
+</h1>
+
+Due to a lack of bandwidth in the development team, we've unfortunately had to halt progress on this project, we appreciate your understanding. 
+
+We recommend alternatives such as e4mc or the Essentials mod for a similar featureset.
+
+Thanks you for your support :)
+
+Kind regards,
+Alujjdnd/Flooflez
+
+<h1 align="center">
   Ngrok LAN
 </h1>
 
