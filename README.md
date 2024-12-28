@@ -12,7 +12,7 @@
 
 Due to a lack of bandwidth in the development team, we've unfortunately had to halt progress on this project, we appreciate your understanding. 
 
-We recommend alternatives such as e4mc or the Essentials mod for a similar featureset.
+We recommend alternatives such as e4mc for a similar featureset.
 
 Thanks you for your support :)
 
